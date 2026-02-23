@@ -1,0 +1,6 @@
+streamlit
+openai
+fpdf
+matplotlib
+wordcloud
+# Azure OpenAI support is included via openai package
